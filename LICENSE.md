@@ -1,4 +1,4 @@
-# 
+# Automático nanochat temas. Com sincronização em nuvem e computação de borda — otimizado para máximo desempenho e eficiência.
 
 
 
